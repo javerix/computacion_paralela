@@ -1,4 +1,4 @@
-#TAREA 3
+#TAREA3
 
 la verdad es que nose en que consiste la exclusion mutua, por lo que busque informacion en internet para no dejar sin responder la pregunta
 
